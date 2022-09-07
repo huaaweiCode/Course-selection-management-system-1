@@ -1,10 +1,6 @@
 # 选课管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ： **选课1**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -47,11 +43,4 @@
 
 ![管理员添加修改课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111831069.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ： **选课1**，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
