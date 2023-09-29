@@ -43,4 +43,8 @@
 
 ![管理员添加修改课程](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208111831069.jpg)
 
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：选课
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
